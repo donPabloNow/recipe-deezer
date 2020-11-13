@@ -1,13 +1,15 @@
 {
-  "id": "deezer",
-  "name": "deezer",
-  "version": "1.0.0",
-  "description": "deezer",
+  "id": "franz-deezer",
+  "name": "Deezer",
+  "version": "1.0.2",
+  "description": "Deezer",
   "main": "index.js",
-  "author": "Kevin Tawaststjerna <ktawaststjerna@gmail.com>",
+  "author": "don Pablo <don@obeyi.com>",
   "license": "MIT",
+  "repository": "https://github.com/donPabloNow/recipe-deezer",
   "config": {
-    "serviceURL": "https://www.deezer.com/en/channels/explore",
-    "hasNotificationSound": false
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasCustomUrl": true
   }
 }

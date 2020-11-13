@@ -8,6 +8,7 @@
   "license": "MIT",
   "repository": "https://github.com/donPabloNow/recipe-deezer",
   "config": {
+	"serviceURL": "https://www.deezer.com/en/",
     "hasNotificationSound": false,
     "hasIndirectMessages": false,
     "hasCustomUrl": false
